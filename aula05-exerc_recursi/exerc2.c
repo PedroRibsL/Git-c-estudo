@@ -11,6 +11,6 @@ int somatorio(int n)
 
 int main()
 {
-    somatorio(5);
+    printf("%d\n", somatorio(5));
     return 0;
 }
